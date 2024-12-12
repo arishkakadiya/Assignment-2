@@ -49,4 +49,3 @@ spec:
   selector:
     app: mongodb # Target pods with label `app: mongodb`
   type: ClusterIP # Internal cluster service
----
