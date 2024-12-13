@@ -29,6 +29,11 @@ The application includes the following components:
         - Product-Service: [GitHub Link](https://github.com/arishkakadiya/product-service)
         - Makeline-Service: [GitHub Link](https://github.com/arishkakadiya/makeline-service)
         - Store-Admin: [GitHub Link](https://github.com/arishkakadiya/store-admin)
+        - Ai-service: [GitHub Link](https://github.com/arishkakadiya/ai-service)
+        - Virtual-customer: [GitHub Link](https://github.com/arishkakadiya/virtual-customer)
+        - Virtual-worker: [GitHub Link](https://github.com/arishkakadiya/virtual-worker)
+        - RabbitMQ: [GitHub Link](https://github.com/arishkakadiya/rabbitmq-service)
+        - MongoDB: [GitHub Link](https://github.com/arishkakadiya/mongo-service)
 
 2. **Docker Images**
     - Created Docker images for all services and uploaded them to Docker Hub:
