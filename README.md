@@ -6,6 +6,10 @@ The application includes the following components:
 
 ## Application Overview
 
+### Architecture 
+
+![Algonquin Pet Store On Steroids](https://github.com/user-attachments/assets/04d91308-3b76-466c-b384-06268ab1ab0d)
+
 ### Service Description
 
 | Service         | Description                                                            | Notes                                      |
@@ -19,6 +23,9 @@ The application includes the following components:
 | **Database**    | MongoDB for persisting order and product data.                        |                                            |
 
 ---
+
+### Demo Video link 
+https://youtu.be/KmZBxwJMjvo
 
 ## Project Deliverables
 
@@ -170,3 +177,6 @@ Retrieve all documents in the orders collection:
 ```bash
 db.orders.find()
 ```
+
+### Demo Video link 
+https://youtu.be/KmZBxwJMjvo
