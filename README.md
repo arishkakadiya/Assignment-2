@@ -37,11 +37,13 @@ The application includes the following components:
 
 2. **Docker Images**
     - Created Docker images for all services and uploaded them to Docker Hub:
-        - Store-Front: [Docker Hub Link](https://hub.docker.com/r/klamichhane738/store-front-bestbuy/tags)
-        - Order-Service: [Docker Hub Link](https://hub.docker.com/r/klamichhane738/order-service-bestbuy/tags)
-        - Product-Service: [Docker Hub Link](https://hub.docker.com/r/klamichhane738/product-service-bestbuy/tags)
-        - Makeline-Service: [Docker Hub Link](https://hub.docker.com/r/klamichhane738/makeline-service-bestbuy/tags)
-        - AI-Service: [Docker Hub Link](https://hub.docker.com/r/klamichhane738/ai-service-bestbuy/tags)
+        - Store-Front: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/store-front)
+        - Order-Service: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/order-service)
+        - Product-Service: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/product-service)
+        - Makeline-Service: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/makeline-service)
+        - AI-Service: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/ai-service)
+        - Virtual-customer: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/virtual-customer)
+        - Virtual-worker: [Docker Hub Link](https://hub.docker.com/repository/docker/arishkakadiya/virtual-worker)
 
 3. **Deployment Files**
     - All Kubernetes deployment YAML files are included in the `Deployment-Files` folder.
